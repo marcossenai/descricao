@@ -1,0 +1,88 @@
+1-Trocar uma lâmpada:
+
+.Posicionar escada no centro da sala.
+.Subir com cuidado.
+.Desenroscar lâmpada queimada.
+.Enroscar nova lâmpada.
+.Testar funcionamento.
+
+
+2-Ir ao mercado:
+
+.Caminhar até o mercado.
+.Seguir lista de compras.
+.Escolher produtos.
+.Pagar no caixa.
+.Retornar para casa.
+
+
+3-Arrumar uma mala:
+
+.Colocar mala aberta sobre a cama.
+.Dobrar roupas.
+.Organizar sapatos em sacos.
+.Reservar espaço para itens de higiene.
+.Fechar mala.
+
+
+4-Escovar os dentes:
+
+.Pegar escova.
+.Aplicar pasta de dente.
+.Movimentar em círculos nos dentes.
+.Enxaguar boca e escova.
+
+
+5-Chegar até a escola:
+
+.Sair de casa com mochila.
+.Caminhar pela rua.
+.Cumprimentar vizinhos.
+.Chegar à escola.
+
+
+6-omprar um remédio:
+
+.Dirigir-se à farmácia.
+.Solicitar medicamento ao farmacêutico.
+.Discutir dosagem.
+.Pagar pelo remédio.
+.Retornar para casa.
+
+
+7-Encher a garrafa de água:
+
+.Pegar garrafa vazia.
+.Ir até o bebedouro.
+.Inclinar garrafa.
+.Pressionar botão para encher.
+.Fechar garrafa.
+
+
+8-Amarrar os sapatos:
+
+.Sentar-se.
+.Cruzar cadarços.
+.Fazer laço básico.
+.Formar duas alças.
+.Cruzar e puxar para nó firme.
+
+
+9-Upload no GitHub pelo GitHub Desktop:
+
+.Abrir GitHub Desktop.
+.Selecionar repositório.
+.Arrastar arquivo para interface.
+.Deixar mensagem de commit.
+.Clicar em 'Commit to master'.
+.Clicar em 'Publish repository'.
+
+
+10-Enviar anexo no Classroom:
+
+.Abrir plataforma do Classroom.
+.Selecionar atividade.
+.Clicar no ícone de clipe.
+.Buscar arquivo nos documentos.
+.Confirmar envio de anexo.
+.Submeter atividade.
