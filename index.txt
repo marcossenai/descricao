@@ -1,90 +1,89 @@
 1-Trocar uma lâmpada:
 
-.Posicionar escada no centro da sala.
-.Subir com cuidado.
-.Desenroscar lâmpada queimada.
-.Enroscar nova lâmpada.
-.Testar funcionamento.
+1- Posicionar escada no centro da sala.2Subir com cuidado.
+2- Desenroscar lâmpada queimada.
+3- Enroscar nova lâmpada.
+4- Testar funcionamento.
 
 
 2-Ir ao mercado:
 
-.Caminhar até o mercado.
-.Seguir lista de compras.
-.Escolher produtos.
-.Pagar no caixa.
-.Retornar para casa.
+1- Caminhar até o mercado.
+2- Seguir lista de compras.
+3- Escolher produtos.
+4- Pagar no caixa.
+5- Retornar para casa.
 
 
 3-Arrumar uma mala:
 
-.Colocar mala aberta sobre a cama.
-.Dobrar roupas.
-.Organizar sapatos em sacos.
-.Reservar espaço para itens de higiene.
-.Fechar mala.
+1- Colocar mala aberta sobre a cama.
+2- Dobrar roupas.
+3- Organizar sapatos em sacos.
+4- Reservar espaço para itens de higiene.
+5- Fechar mala.
 
 
 4-Escovar os dentes:
 
-.Pegar escova.
-.Aplicar pasta de dente.
-.Movimentar em círculos nos dentes.
-.Enxaguar boca e escova.
+1- Pegar escova.
+2- Aplicar pasta de dente.
+3- Movimentar em círculos nos dentes.
+4- Enxaguar boca e escova.
 
 
 5-Chegar até a escola:
 
-.Se preparar.
-.Conferir se não esqueceu nada.
-.Sair de casa com mochila.
-.Caminhar pela rua.
-.Cumprimentar vizinhos.
-.Chegar à escola.
+1- Se preparar.
+2- Conferir se não esqueceu nada.
+3- Sair de casa com mochila.
+4- Caminhar pela rua.
+5- Cumprimentar vizinhos.
+6- Chegar à escola.
 
 
 6-omprar um remédio:
 
-.Dirigir-se à farmácia.
-.Solicitar medicamento ao farmacêutico.
-.Discutir dosagem.
-.Pagar pelo remédio.
-.Retornar para casa.
+1- Dirigir-se à farmácia.
+2- Solicitar medicamento ao farmacêutico.
+3- Discutir dosagem.
+4- Pagar pelo remédio.
+5- Retornar para casa.
 
 
 7-Encher a garrafa de água:
 
-.Pegar garrafa vazia.
-.Ir até o bebedouro.
-.Inclinar garrafa.
-.Pressionar botão para encher.
-.Fechar garrafa.
+1- Pegar garrafa vazia.
+2- Ir até o bebedouro.
+3- Inclinar garrafa.
+4- Pressionar botão para encher.
+5- Fechar garrafa.
 
 
 8-Amarrar os sapatos:
 
-.Sentar-se.
-.Cruzar cadarços.
-.Fazer laço básico.
-.Formar duas alças.
-.Cruzar e puxar para nó firme.
+1- Sentar-se.
+2- Cruzar cadarços.
+3- Fazer laço básico.
+4- Formar duas alças.
+5- Cruzar e puxar para nó firme.
 
 
 9-Upload no GitHub pelo GitHub Desktop:
 
-.Abrir GitHub Desktop.
-.Selecionar repositório.
-.Arrastar arquivo para interface.
-.Deixar mensagem de commit.
-.Clicar em 'Commit to master'.
-.Clicar em 'Publish repository'.
+1- Abrir GitHub Desktop.
+2- Selecionar repositório.
+3- Arrastar arquivo para interface.
+4- Deixar mensagem de commit.
+5- Clicar em 'Commit to master'.
+6- Clicar em 'Publish repository'.
 
 
 10-Enviar anexo no Classroom:
 
-.Abrir plataforma do Classroom.
-.Selecionar atividade.
-.Clicar no ícone de clipe.
-.Buscar arquivo nos documentos.
-.Confirmar envio de anexo.
-.Submeter atividade.
+1- Abrir plataforma do Classroom.
+2- Selecionar atividade.
+3- Clicar no ícone de clipe.
+4- Buscar arquivo nos documentos.
+5- Confirmar envio de anexo.
+6-Submeter atividade.
